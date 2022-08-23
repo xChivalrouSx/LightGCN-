@@ -2,7 +2,8 @@
 This is a tensorflow implementation for my Master of Science Thesis:
 
 Master of Science Thesis Paper: 
-[Eczaneler İçin Kullanıcı Tabanlı Müstahzar Öneri Sistemi (User-Based Preparation/Drug Recommendation System for Pharmacies)](https://github.com/xChivalrouSx/LightGCN-plus/blob/main/paper/mertcakar-master-thesis-lightgcnplus.pdf).
+---
+[Eczaneler İçin Kullanıcı Tabanlı Müstahzar Öneri Sistemi (User-Based Preparation/Drug Recommendation System for Pharmacies) - 2022](https://github.com/xChivalrouSx/LightGCN-plus/blob/main/paper/mertcakar-master-thesis-lightgcnplus.pdf)
 
 ## Introduction
 In this study, a hybrid recommendation system has been proposed that will increase the efficiency of the systems in pharmacies. A new system which called LightGCN+ aims to improve the [LightGCN](https://github.com/kuandeng/LightGCN) by adding item-item relations next to user-item relations. In addition three datasets have been proposed about drug/preparation.
